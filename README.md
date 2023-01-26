@@ -6,6 +6,9 @@ Além disso o usuário pode comprar Pokemons específicos ou pacotes onde as rec
 Há também a Página do usuário onde ele pode visualizar quantos e quais pokemons ele possui.
 Futuramente pretendemos adicionar mais funcionalidades, como por exemplo, batalhas, novos pokemons, interação entre usuários e etc.
 
+Visite o site!
+https://pokemon-house.vercel.app/
+
 ### Esta é a homepage do projeto onde o usuário pode comprar pacotes com pokemons aleatórios!
 
 ![PokedexHomepage](https://i.ibb.co/fdvx4v5/Homepage-Pokedex.png)
